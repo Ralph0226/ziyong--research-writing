@@ -1,6 +1,6 @@
 > Make AI Writing Better for Everyone
 
-## 📖 为什么做这个项目
+## 📖 为什么做这个项目呢
 
 当你第三次调试同一个润色 prompt 时，隔壁组的同学可能已经用现成的模板改完了三篇论文。
 
